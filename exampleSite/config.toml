@@ -1,0 +1,47 @@
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "Joel Holmes"
+theme="joel"
+copyright = "© Athul"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="auto"
+	featherIconsCDN=true
+	subtitle = "Software developer living and working in Pittsburgh"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/athul/archie"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://github.com/athulcajay/"
+
+[[params.social]]
+name = "Linkedin"
+icon = "linkedin"
+url = "https://linkedin.com/holmes89/"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
