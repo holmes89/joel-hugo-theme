@@ -3,12 +3,6 @@ Joel is a simple theme for blogs.
 
 Forked from [Archie Theme](https://github.com/athul/archie)
 
-## Demo
-
-[Check the Demo](https://athul.github.io/archie/) hosted on GitHub Pages :smile: . You can find the source code to that in the `site` branch of this repository
-
-![](/images/theme.png)
-![](/images/archie-dark.png)
 ## Feature
 - Google Analytics Script
 - Callouts
