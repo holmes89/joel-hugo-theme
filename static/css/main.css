@@ -6,7 +6,7 @@
 --bordercl:darkgrey;
 --callouctcolor:dodgerblue;
 --hovercolor:orangered;
---darkMaincolor: #50fa7b;
+--darkMaincolor: orangered;
 }
 html {
   color: #232333;
@@ -242,7 +242,7 @@ ul.tags {
 
 .tags a:hover{
   color:white;
-  background-color: var(--hovercolor); 
+  background-color: var(--hovercolor);
 }
 svg{
   max-height: 15px;
@@ -250,7 +250,7 @@ svg{
 .soc:hover{
   color: white;
 }
-.draft-label{ 
+.draft-label{
     color: var(--bordercl);
     text-decoration: none;
     padding: 2px 4px;
@@ -301,7 +301,7 @@ color:white
 .highlight pre code[class*='language-json']::before{
 content: 'json';
 background: dodgerblue;
- color: #000000 
+ color: #000000
 }
 .highlight pre code[class*='language-python']::before,
 .highlight pre code[class*='language-py']::before {

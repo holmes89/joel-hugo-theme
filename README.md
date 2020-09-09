@@ -63,17 +63,13 @@ paginate=3 # articles per page
 [[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/athul/archie"
+url = "https://github.com/holmes89"
 
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
-url = "https://github.com/athulcajay/"
+url = "https://github.com/Joel_Holmes/"
 
-[[params.social]]
-name = "GitLab"
-icon = "gitlab"
-url = "https://gitlab.com/athul/"
 
 # Main menu Items
 
@@ -97,3 +93,9 @@ name = "Tags"
 url = "/tags"
 weight = 4
 ```
+
+## Run Locally
+```
+cd exampleSite
+hugo serve  --themesDir ../..
+``

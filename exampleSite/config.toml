@@ -1,7 +1,7 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
 title = "Joel Holmes"
-theme="joel"
+theme="joel-hugo-theme"
 copyright = "© Athul"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
